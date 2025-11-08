@@ -22,8 +22,6 @@ We focus on **productivity, performance, and developer experience**, ensuring th
 | Project | Description | NuGet |
 |---------|-------------|-------|
 | **ExtendedSharp.Sdk** | Core SDK providing token readers, custom parsing, and utilities for building C# tooling. | [![NuGet](https://img.shields.io/nuget/v/ExtendedSharp.Sdk)](https://www.nuget.org/packages/ExtendedSharp.Sdk/) |
-| **ExtendedSharp.Parser** | A high-performance parsing library for C# source code, including tokenization and syntax analysis. | [![NuGet](https://img.shields.io/nuget/v/ExtendedSharp.Parser)](https://www.nuget.org/packages/ExtendedSharp.Parser/) |
-| **ExtendedSharp.Utils** | General-purpose utilities for string manipulation, reflection, and runtime helpers. | [![NuGet](https://img.shields.io/nuget/v/ExtendedSharp.Utils)](https://www.nuget.org/packages/ExtendedSharp.Utils/) |
 
 > More projects are under development. Follow us to stay updated on new releases and libraries.
 
